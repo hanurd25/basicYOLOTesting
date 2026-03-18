@@ -1,5 +1,6 @@
 # Simple yolo
 `git rm -r --cached <folder_name>`
+`git rm <folder>`
 
 ### sources for code:
 Google AI
