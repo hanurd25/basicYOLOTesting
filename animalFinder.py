@@ -6,10 +6,13 @@ import os
 model = YOLO('yolov8n.pt')
 image_path = 'dogs/img_7.png'
 
+
+
 if not os.path.exists(image_path):
     print(f"Error: Image file not found at {image_path}")
     print("Please place an image named 'img_4.png' in your project directory or update the 'image_path' variable.")
 else:
+
 
     img = cv2.imread(image_path)
     if img is None:
