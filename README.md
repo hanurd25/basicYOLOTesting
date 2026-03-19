@@ -11,4 +11,5 @@ https://www.britannica.com/animal/dog
 https://atlantahumane.org/adopt/dogs/
 https://www.britannica.com/animal/dog
 https://www.thesprucepets.com/types-of-dog-breeds-4688776
+https://www.thesprucepets.com/types-of-dog-breeds-4688776
 
